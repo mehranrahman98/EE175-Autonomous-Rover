@@ -3,7 +3,7 @@
 ![](Source%20Code/Poster.jpg)
 
 
-<u>Objective:</u> 
+<u>**Objective:**</u> 
 
 The objective of the project was to create an autonomous ground vehicle that has the capability of travelling to predetermined locations via GPS with an attached target system. The overall task of the rover is to move to a certain location, raise a target, wait for the target to be hit, lower the target once hit, and then move onto the next predetermined location.
 
